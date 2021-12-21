@@ -29,7 +29,7 @@ bot.loadPlugin(cmd)
 
 bot.on('login',function(){
 	console.log("Logged In")
-	bot.chat("hello");
+	bot.chat("Welcome to Crafty World! (Server Message)");
 });
 
 bot.on('time', function(time) {
