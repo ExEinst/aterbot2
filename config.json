@@ -2,5 +2,5 @@
 	"ip":"craftyworld.aternos.me",
 	"port": "59411",
 	"name": "nicowashere",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
