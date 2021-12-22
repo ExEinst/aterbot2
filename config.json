@@ -1,6 +1,6 @@
 {
 	"ip":"craftyworld.aternos.me",
 	"port": "59411",
-	"name": "nicowashere",
-	"auto-night-skip":"true"
+	"name": "craftybot",
+	"auto-night-skip":"false"
 }
