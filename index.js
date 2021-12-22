@@ -28,7 +28,8 @@ bot.loadPlugin(cmd)
 
 
 bot.on('login',function(){
-	bot.chat("Welcome to Crafty World! (Server Message)");
+	connected=1;
+	bot.activateItem();
 });
 
 bot.on('time', function(time) {
