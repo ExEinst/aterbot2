@@ -1,6 +1,6 @@
 {
-	"ip":"craftyworld.aternos.me",
-	"port": "59411",
+	"ip":"Aarchu.aternos.me",
+	"port": "41108",
 	"name": "craftybot2",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
